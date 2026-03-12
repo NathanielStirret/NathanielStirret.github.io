@@ -1,0 +1,49 @@
+/* Global dark theme */
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+/* Header */
+h1 {
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 40px;
+}
+
+/* Section styling */
+section {
+    background-color: #1e1e1e;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 1px solid #2a2a2a;
+}
+
+/* Section titles */
+h2 {
+    color: #90caf9;
+    margin-top: 0;
+}
+
+/* Links */
+a {
+    color: #80cbc4;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #4db6ac;
+    text-decoration: underline;
+}
+
+/* List styling */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
